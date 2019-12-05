@@ -1,0 +1,38 @@
+= Moonshine Coders
+:toc:
+
+
+
+
+== Format
+
+* Keine frontal Präsentation und somit wenig bis keine Vorbereitungszeit
+* „Bring your own project“
+** Dein "kleines" Heimprojekt
+** Eine Problemstellung die dir in deinem Projekt aufgefallen ist
+** Ideen die du selber mal ausprobieren möchtest
+** Ein regelmäßiger Termin alle 2 Wochen
+
+
+== Projekte
+
+Solltes du evtl auch externes Projekt haben das du hier "veröffentlichen" möchtest, bitte einfach hier eintragen
+
+
+
+.Projekte
+|===
+|Name |Kurzbeschreibung |URL
+
+|MoonshineCoders, 
+|Überblick über MoonshineCoder Projekte
+|https://github.com/MoonshineCoders/moonshinecoders.git
+
+
+|===
+
+
+
+== Essensplanung
+
+tbd Issues?

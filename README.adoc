@@ -36,3 +36,8 @@ Solltes du evtl auch externes Projekt haben das du hier "veröffentlichen" möch
 == Essensplanung
 
 tbd Issues?
+
+== 
+
+== Kommunikation
+texas-str.slack.com

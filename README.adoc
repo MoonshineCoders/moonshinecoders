@@ -32,12 +32,16 @@ Solltes du evtl auch externes Projekt haben das du hier "veröffentlichen" möch
 |===
 
 
+== Kommunikation
+
+Slack:
+
+
+
+https://join.slack.com/t/moonshinecodersgruppe/shared_invite/enQtODU0NjI2NzkwMDgzLTM4YTQ1OWQ0NmIxNjIzYTFiOWI3N2ZkZGVhNDJkYWQwOWVkMzlkMzdmNjBmM2M4ODA2YWQ5YWQzYjUwYzUyMzY[moonshinecoders-stgt.slack.com]
+
+
 
 == Essensplanung
 
 tbd Issues?
-
-== 
-
-== Kommunikation
-texas-str.slack.com

@@ -1,0 +1,39 @@
+= Moonshine Coders Possible Topics
+:toc:
+
+
+
+
+== Cloud Native (Build + run)
+
+* Helm + Kn8 + Vaults
+* GraalVM / Open SDK
+
+* SpringBoot/Micronat/Quarkus/Scaffolding
+
+* Linux Basic Know How
+
+* Monitoring + Logging/Performance Analyse
+* Grafana/Prometheus
+
+* Different Cloud Providers
+** Differences
+** Independence
+
+== DevSecOps
+
+* Awareness
+** HowToBreak
+** HowToSecure
+
+
+*AppSecure from Developer Point of View
+
+*Shift Left -> Continous Integration of Security/From DevOps to DevSecOps
+
+== HowTo Org Scale
+* Compare different agile/scaling frameworks
+* HowTo Integrate DevSecOps into agile Development
+
+== DataScience
+*High level overview

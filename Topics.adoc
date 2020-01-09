@@ -7,6 +7,7 @@
 == Cloud Native (Build + run)
 
 * Helm + Kn8 + Vaults
+** Certs via Istio als Beispiel für Service Mesh
 * GraalVM / Open SDK
 
 * SpringBoot/Micronat/Quarkus/Scaffolding
@@ -27,13 +28,14 @@
 ** HowToSecure
 
 
-*AppSecure from Developer Point of View
+* AppSecure from Developer Point of View
+** Warum Service Mesh
 
-*Shift Left -> Continous Integration of Security/From DevOps to DevSecOps
+* Shift Left -> Continous Integration of Security/From DevOps to DevSecOps
 
 == HowTo Org Scale
 * Compare different agile/scaling frameworks
 * HowTo Integrate DevSecOps into agile Development
 
 == DataScience
-*High level overview
+* High level overview
